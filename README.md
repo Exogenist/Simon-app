@@ -5,9 +5,6 @@ Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard
 
 This is my version of game uitilizing the svg framework to create seemless interactive grapghics that work on the mobile level as well as a desktop app as it was intended for. 
 
-## TO DO:
-- [ ] come up with a to do. 
-
 ### Author
 Swainson Holness
 Website: [swainsonholness.me](http://swainsonholness.me/)
